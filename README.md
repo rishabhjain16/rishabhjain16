@@ -11,10 +11,10 @@
 - 🔭 I’m trying to **keep up with the world.....**
 - 🌱 I’m learning about **Audio-Visual-Speech-Multimodal AI Stuff**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 📫 Reach me on GitHub: **[@rishabhjain16](https://github.com/rishabhjain16)**
+- 👨🏻‍💻 Checkout my Portfolio website: **[@rishabhja.in](https://www.rishabhja.in)**
 
-### 🌐 Get to know Me
-[![Website](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.rishabhja.in)
+### 🌐 Connect with me on my Github
+[![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhjain16)
 
 ### 📊 GitHub Stats
 <p>
